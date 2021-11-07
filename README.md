@@ -1,1 +1,1 @@
-# design-pattern-singleton
+# design-pattern-observer
